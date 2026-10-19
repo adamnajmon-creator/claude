@@ -1,0 +1,7 @@
+numpy
+# optional: speech-to-text with word timestamps
+faster-whisper
+# optional: face-tracked 9:16 crop (--layout face)
+opencv-python-headless<5  # 5.x dropped Haar cascades
+# optional: Claude re-ranking and titles (--llm)
+anthropic
